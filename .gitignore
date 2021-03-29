@@ -1,0 +1,7 @@
+.mxproject
+MDK-ARM/*
+!*.uvprojx
+!*.lst
+!*.s
+
+
